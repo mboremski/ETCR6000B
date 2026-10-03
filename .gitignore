@@ -1,0 +1,10 @@
+# Manufacturer's manual: copyrighted, not redistributed here.
+# See README for the download link.
+*.pdf
+
+# Raw captures from the measurement runs: working material only.
+# All findings derived from them are written up in README.md.
+logs/
+
+__pycache__/
+*.pyc
